@@ -1,0 +1,35 @@
+/* Inserta tu código aqui */
+body{
+	zoom:0;
+
+}
+hr{
+	width:10%;
+	margin-left:0px;
+	size:4;
+	color:black;
+}
+p{	
+	font-family: 'Roboto Slab', serif;
+	position: absolute;
+	right: 10px;
+	top:80%;
+	color:white;
+}
+div{
+	float: left;
+	position: relative;
+	margin:5px 10px 2px 5px;
+}
+.contenedor{
+	clear:both;
+}
+ 
+h3{
+	font-family: 'Open Sans', sans-serif;
+}
+
+img{
+	height: 33%;
+	width: 33%;
+}
